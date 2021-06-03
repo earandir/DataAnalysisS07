@@ -2,3 +2,5 @@
 
 auto <- mtcars
 head(auto)
+
+tail(auto)
